@@ -54,6 +54,7 @@ app.post("/api/notes", function (req, res) {
 });
 //end post requests
 
+// delete request
 app.delete("/api/notes/:id", function (req, res) {
   const deleteNote = req.params.id;
   fs.readFile("./Develop/db/db.json", function (err, data) {
@@ -77,6 +78,7 @@ app.delete("/api/notes/:id", function (req, res) {
     );
   });
 });
+// end delete request
 
 // listen
 app.listen(PORT, function () {
