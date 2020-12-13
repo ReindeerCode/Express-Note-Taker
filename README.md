@@ -1,7 +1,7 @@
 # Project:
   <strong>Express: Note Taker</strong>
 
-  Deployable Link - > TBD
+  Deployable Link - > https://new-express-note-taker.herokuapp.com/
 
 
 ## Table of Contents: 
