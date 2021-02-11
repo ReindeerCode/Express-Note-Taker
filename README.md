@@ -35,7 +35,7 @@ An application that can be used to write, save, and delete notes. This applicati
 3) Recommended - Install npm nodemon
 
 ## Test Command: 
-To test type Ensure that server is running then go to localhost:3050 in browser into the terminal
+To test ensure that server is running then go to localhost:3050 in browser 
 
 ## My Github Username: 
 Check out more projects on my Github at https://github.com/ReindeerCode
